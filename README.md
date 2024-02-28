@@ -16,7 +16,6 @@ In order to get the url run the command shown below to display the link URL for 
 
   - *cat /home/user/jenkins__pid__url.txt*
 
-
 ## Git repositories ##
 
   - https://github.com/Romu10/GTest-Framework-for-ROS2.git
