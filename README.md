@@ -15,8 +15,19 @@ In order to get the url run the command shown below to display the link URL for 
 
   - *cat /home/user/jenkins__pid__url.txt*
 
+Before making the pull request use the next command and save the URL generated:
+
+  - *echo "$(jenkins_address)github-webhook/"*
+
+**In the pool request form please provide the generated URL.**
+
 ## Git repositories ##
+
+Make the pull request in the next repositor: 
+
+  - *https://github.com/Romu10/ROS2-CI-with-Tortoisebot-Sim-and-GTest.git*
+
+Others repositories used:
 
   - https://github.com/Romu10/GTest-Framework-for-ROS2.git
   - https://github.com/rigbetellabs/tortoisebot.git
-  - https://github.com/Romu10/ROS2-CI-with-Tortoisebot-Sim-and-GTest.git
